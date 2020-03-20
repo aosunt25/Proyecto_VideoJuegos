@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{29E1FEC6-0BB6-1717-41C4-394F700D0309}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainMenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ControladorDeCamara.cs" Line="26" Column="6" />
+      <File FileName="Assets/Scripts/Player.cs" Line="14" Column="22" />
+      <File FileName="Assets/Scripts/Puertas.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/limite.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Objetos/ObjetoAactivarConE.cs" Line="34" Column="6" />
+      <File FileName="Assets/Scripts/Menu.cs" Line="10" Column="35" />
+      <File FileName="Assets/Scripts/SavingSystem.cs" Line="12" Column="53" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="40" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

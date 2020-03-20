@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cartas
+  - MuebleAct
+  - Mueble
+  - Puerta
+  - CPU
+  - Piso
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockingLayer
+  - Muebles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgound
+    uniqueID: 2629617425
+    locked: 0
+  - name: Piso
+    uniqueID: 1330655547
+    locked: 0
+  - name: Pared
+    uniqueID: 2855484873
+    locked: 0
+  - name: muebles
+    uniqueID: 1302170231
+    locked: 0
+  - name: Casa
+    uniqueID: 1266330911
+    locked: 0
+  - name: Plantas
+    uniqueID: 1533177953
+    locked: 0
+  - name: Cartas
+    uniqueID: 3288604939
+    locked: 0
+  - name: Jugador
+    uniqueID: 3433608839
+    locked: 0
+  - name: Escrito
+    uniqueID: 554167279
+    locked: 0
